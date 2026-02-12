@@ -1,6 +1,6 @@
 ## Hi there 👋
 Hola Soy Ada 
-Estoy aprendiendo un monton
+**Estoy aprendiendo un monton**
 <!--
 **aflorido266/aflorido266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
