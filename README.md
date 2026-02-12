@@ -1,6 +1,5 @@
 <p align="center">
-  <img src=""
- width="600">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJueXZueXp3eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCBjdXN0b20mY3Q9Zw/3og0IPMeREvAEWFT4Q/giphy.gif" width="600">
 </p>
 
 <h1 align="center">¡Hola! Soy aflorido266 👋</h1>
