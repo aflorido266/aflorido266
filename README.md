@@ -1,3 +1,10 @@
+<p align="center">
+  <img src=""
+ width="600">
+</p>
+
+<h1 align="center">¡Hola! Soy aflorido266 👋</h1>
+
 ## Hi there 👋
 # Hola Soy **Ada** 
 **Estoy aprendiendo un monton**
