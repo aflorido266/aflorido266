@@ -6,7 +6,7 @@
 
 ## Hi there 👋
 # Hola Soy **Ada** 
-**Estoy aprendiendo un monton**
+**Frontend Web Developer & UX | Direccion y control**
 <!--
 **aflorido266/aflorido266** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
