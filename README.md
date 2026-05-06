@@ -6,9 +6,12 @@
 
 # ¡Hola! Soy Ada 👋
 
-Expert IT Professional | Senior Project Management Background | Future Frontend Developer & UX Enthusiast
+**Expert IT Professional | Senior Project Management Background | Frontend Developer & UX Enthusiast**
 
-- 🚀 **Evolución:** Tras una sólida trayectoria en el sector informático, actualmente estoy expandiendo mi stack técnico hacia el desarrollo web moderno.
-- 🛠️ **Enfoque actual:** Profundizando en el ecosistema de JavaScript, Node.js y la arquitectura de componentes.
-- 🎨 **Pasión por el UX:** Aplicando principios de Diseño Atómico y prototipado en Figma para crear experiencias de usuario excepcionales.
-- 📚 **Aprendizaje continuo:** Formándome en las últimas tendencias de Frontend para fusionar la eficiencia operativa con la usabilidad visual.<!--
+- 🚀 **Evolución:** Tras una sólida trayectoria liderando proyectos informáticos, actualmente estoy expandiendo mi stack técnico hacia el desarrollo web moderno.
+- 🛠️ **Enfoque actual:** 
+    - **Frontend & UX:** React.js, JavaScript (ES6+), HTML5/CSS3, Figma (Wireframing & Prototyping).
+    - **Backend & Entorno:** Node.js, Express, Git/GitHub.
+- 🎨 **Pasión por el UX:** Aplicando principios de **Diseño Atómico** y prototipado para crear experiencias de usuario excepcionales y funcionales.
+- 📊 **Estrategia:** Integrando mi experiencia en **Gestión de Proyectos y Scrum** para construir soluciones de software eficientes y centradas en el negocio.
+- 📚 **Aprendizaje continuo:** Fusionando la eficiencia operativa con la usabilidad visual de última generación.
